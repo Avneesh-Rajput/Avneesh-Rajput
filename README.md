@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akr9368
 - 👀 I’m interested in ... web Devlopment
-- 🌱 I’m currently learning ...javascript
+- 🌱 I’m currently learning ...react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
