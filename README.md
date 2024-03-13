@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akr9368
+- 👋 Hi, I’m @Avneesh Rajput
 - 👀 I’m interested in ... web Devlopment
 - 🌱 I’m currently learning ...react
 - 💞️ I’m looking to collaborate on ...
