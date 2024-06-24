@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Avneesh Rajput
-- 👀 I’m interested in ... web Devlopment
-- 🌱 I’m currently learning ...react
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... web Devlopment, Node.jS , MYSQL, Serverless, Microservices, MongoDb, AWS
+- 🌱 I’m currently working as a Node.js Developer.
+- 💞️ I’m looking to collaborate on web Devlopment
 - 📫 How to reach me ... @rajput.avnesh0123@gmail.com
 
 <!---
